@@ -1,0 +1,319 @@
+2024-12-08 17:55:00,586 - INFO - Loaded 1 entries from Excel file
+2024-12-08 17:55:08,314 - INFO - ====== WebDriver manager ======
+2024-12-08 17:55:09,870 - INFO - There is no [win64] chromedriver "120.0.6099.71" for browser google-chrome "131.0.6778" in cache
+2024-12-08 17:55:10,732 - INFO - WebDriver version 120.0.6099.109 selected
+2024-12-08 17:55:10,735 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/120.0.6099.109/win32/chromedriver-win32.zip
+2024-12-08 17:55:10,736 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/120.0.6099.109/win32/chromedriver-win32.zip
+2024-12-08 17:55:11,669 - INFO - Driver downloading response is 200
+2024-12-08 17:55:12,601 - INFO - Driver has been saved in cache [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\120.0.6099.71]
+2024-12-08 17:55:16,641 - ERROR - Error setting up browser: Message: session not created: This version of ChromeDriver only supports Chrome version 120
+Current browser version is 131.0.6778.109 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00776EE3+174339]
+	(No symbol) [0x006A0A51]
+	(No symbol) [0x003B6FF6]
+	(No symbol) [0x003DE912]
+	(No symbol) [0x003DE150]
+	(No symbol) [0x003DB6D4]
+	(No symbol) [0x003D7A0F]
+	(No symbol) [0x0040E259]
+	(No symbol) [0x0040DBBA]
+	(No symbol) [0x00406DA6]
+	(No symbol) [0x003E1034]
+	(No symbol) [0x003E1F8D]
+	GetHandleVerifier [0x00814B1C+820540]
+	sqlite3_dbdata_init [0x008D53EE+653550]
+	sqlite3_dbdata_init [0x008D4E09+652041]
+	sqlite3_dbdata_init [0x008C97CC+605388]
+	sqlite3_dbdata_init [0x008D5D9B+656027]
+	(No symbol) [0x006AFE6C]
+	(No symbol) [0x006A83B8]
+	(No symbol) [0x006A84DD]
+	(No symbol) [0x00695818]
+	BaseThreadInitThunk [0x75A37BA9+25]
+	RtlInitializeExceptionChain [0x77DDC0CB+107]
+	RtlClearBits [0x77DDC04F+191]
+
+2024-12-08 17:55:16,644 - ERROR - Error processing entries: Message: session not created: This version of ChromeDriver only supports Chrome version 120
+Current browser version is 131.0.6778.109 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00776EE3+174339]
+	(No symbol) [0x006A0A51]
+	(No symbol) [0x003B6FF6]
+	(No symbol) [0x003DE912]
+	(No symbol) [0x003DE150]
+	(No symbol) [0x003DB6D4]
+	(No symbol) [0x003D7A0F]
+	(No symbol) [0x0040E259]
+	(No symbol) [0x0040DBBA]
+	(No symbol) [0x00406DA6]
+	(No symbol) [0x003E1034]
+	(No symbol) [0x003E1F8D]
+	GetHandleVerifier [0x00814B1C+820540]
+	sqlite3_dbdata_init [0x008D53EE+653550]
+	sqlite3_dbdata_init [0x008D4E09+652041]
+	sqlite3_dbdata_init [0x008C97CC+605388]
+	sqlite3_dbdata_init [0x008D5D9B+656027]
+	(No symbol) [0x006AFE6C]
+	(No symbol) [0x006A83B8]
+	(No symbol) [0x006A84DD]
+	(No symbol) [0x00695818]
+	BaseThreadInitThunk [0x75A37BA9+25]
+	RtlInitializeExceptionChain [0x77DDC0CB+107]
+	RtlClearBits [0x77DDC04F+191]
+
+2024-12-08 17:56:36,688 - INFO - Loaded 1 entries from Excel file
+2024-12-08 17:56:52,994 - INFO - Loaded 1 entries from Excel file
+2024-12-08 17:56:55,473 - INFO - ====== WebDriver manager ======
+2024-12-08 17:56:56,865 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-08 17:57:00,692 - ERROR - Error setting up browser: Message: session not created: This version of ChromeDriver only supports Chrome version 120
+Current browser version is 131.0.6778.109 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00776EE3+174339]
+	(No symbol) [0x006A0A51]
+	(No symbol) [0x003B6FF6]
+	(No symbol) [0x003DE912]
+	(No symbol) [0x003DE150]
+	(No symbol) [0x003DB6D4]
+	(No symbol) [0x003D7A0F]
+	(No symbol) [0x0040E259]
+	(No symbol) [0x0040DBBA]
+	(No symbol) [0x00406DA6]
+	(No symbol) [0x003E1034]
+	(No symbol) [0x003E1F8D]
+	GetHandleVerifier [0x00814B1C+820540]
+	sqlite3_dbdata_init [0x008D53EE+653550]
+	sqlite3_dbdata_init [0x008D4E09+652041]
+	sqlite3_dbdata_init [0x008C97CC+605388]
+	sqlite3_dbdata_init [0x008D5D9B+656027]
+	(No symbol) [0x006AFE6C]
+	(No symbol) [0x006A83B8]
+	(No symbol) [0x006A84DD]
+	(No symbol) [0x00695818]
+	BaseThreadInitThunk [0x75A37BA9+25]
+	RtlInitializeExceptionChain [0x77DDC0CB+107]
+	RtlClearBits [0x77DDC04F+191]
+
+2024-12-08 17:57:00,707 - ERROR - Error processing entries: Message: session not created: This version of ChromeDriver only supports Chrome version 120
+Current browser version is 131.0.6778.109 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00776EE3+174339]
+	(No symbol) [0x006A0A51]
+	(No symbol) [0x003B6FF6]
+	(No symbol) [0x003DE912]
+	(No symbol) [0x003DE150]
+	(No symbol) [0x003DB6D4]
+	(No symbol) [0x003D7A0F]
+	(No symbol) [0x0040E259]
+	(No symbol) [0x0040DBBA]
+	(No symbol) [0x00406DA6]
+	(No symbol) [0x003E1034]
+	(No symbol) [0x003E1F8D]
+	GetHandleVerifier [0x00814B1C+820540]
+	sqlite3_dbdata_init [0x008D53EE+653550]
+	sqlite3_dbdata_init [0x008D4E09+652041]
+	sqlite3_dbdata_init [0x008C97CC+605388]
+	sqlite3_dbdata_init [0x008D5D9B+656027]
+	(No symbol) [0x006AFE6C]
+	(No symbol) [0x006A83B8]
+	(No symbol) [0x006A84DD]
+	(No symbol) [0x00695818]
+	BaseThreadInitThunk [0x75A37BA9+25]
+	RtlInitializeExceptionChain [0x77DDC0CB+107]
+	RtlClearBits [0x77DDC04F+191]
+
+2024-12-08 17:58:30,116 - ERROR - Error setting up browser: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2024-12-08 17:58:30,118 - ERROR - Error analyzing form: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2024-12-08 17:58:42,738 - INFO - Loaded 1 entries from Excel file
+2024-12-08 17:58:45,490 - ERROR - Error setting up browser: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2024-12-08 17:58:45,490 - ERROR - Error processing entries: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2024-12-08 18:01:04,546 - INFO - ====== WebDriver manager ======
+2024-12-08 18:01:06,348 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:01:06,955 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:01:07,599 - INFO - There is no [win64] edgedriver "132.0.2957.26" for browser edge "132.0.2957" in cache
+2024-12-08 18:01:07,600 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:01:08,217 - INFO - About to download new driver from https://msedgedriver.azureedge.net/132.0.2957.26/edgedriver_win64.zip
+2024-12-08 18:01:08,811 - INFO - Driver downloading response is 200
+2024-12-08 18:01:11,149 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:01:12,253 - INFO - Driver has been saved in cache [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26]
+2024-12-08 18:01:15,301 - INFO - Browser setup completed successfully
+2024-12-08 18:01:22,592 - INFO - Excel template created: form_template.xlsx
+2024-12-08 18:02:11,914 - INFO - Loaded 1 entries from Excel file
+2024-12-08 18:02:14,961 - INFO - ====== WebDriver manager ======
+2024-12-08 18:02:16,927 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:02:17,791 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:02:18,618 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:02:20,678 - INFO - Browser setup completed successfully
+2024-12-08 18:02:20,742 - INFO - Processing entry 1 of 1
+2024-12-08 18:02:24,439 - WARNING - Could not find field: Your phone number
+2024-12-08 18:02:24,989 - WARNING - Could not find field: Your phone number.1
+2024-12-08 18:02:25,041 - WARNING - Could not find submit button
+2024-12-08 18:02:25,043 - ERROR - Failed to submit form for entry 1
+2024-12-08 18:02:27,044 - INFO - Completed processing 1 entries. 0 successful submissions.
+2024-12-08 18:08:09,903 - INFO - ====== WebDriver manager ======
+2024-12-08 18:08:11,570 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:08:12,234 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:08:13,017 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:08:14,782 - INFO - Browser setup completed successfully
+2024-12-08 18:08:18,153 - INFO - Found field: Your phone number (tel)
+2024-12-08 18:08:18,155 - INFO - Found 1 form fields
+2024-12-08 18:08:20,777 - INFO - Created Excel template: form_template.xlsx
+2024-12-08 18:09:25,106 - INFO - Loaded 1 entries from Excel file
+2024-12-08 18:09:29,037 - INFO - ====== WebDriver manager ======
+2024-12-08 18:09:30,772 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:09:31,457 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:09:32,030 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:09:33,857 - INFO - Browser setup completed successfully
+2024-12-08 18:10:29,160 - WARNING - Could not find field: Your phone number
+2024-12-08 18:11:20,583 - WARNING - Could not find field: Your phone number.1
+2024-12-08 18:11:21,510 - INFO - Form submitted successfully
+2024-12-08 18:11:21,510 - INFO - Successfully processed entry 1
+2024-12-08 18:14:45,807 - INFO - ====== WebDriver manager ======
+2024-12-08 18:14:47,550 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:14:48,187 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:14:48,783 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:14:51,163 - INFO - Browser setup completed successfully
+2024-12-08 18:14:54,113 - INFO - Found field: Your phone number (tel)
+2024-12-08 18:14:54,113 - INFO - Found 1 form fields
+2024-12-08 18:14:56,615 - ERROR - Error creating Excel template: [Errno 13] Permission denied: 'form_template.xlsx'
+2024-12-08 18:14:56,616 - ERROR - Error in main: [Errno 13] Permission denied: 'form_template.xlsx'
+2024-12-08 18:16:30,292 - INFO - Loaded 2 rows of data from Excel
+2024-12-08 18:16:30,292 - INFO - ====== WebDriver manager ======
+2024-12-08 18:16:32,057 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:16:32,703 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:16:33,302 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:16:34,934 - INFO - Browser setup completed successfully
+2024-12-08 18:16:38,052 - INFO - Processing form submission 1
+2024-12-08 18:17:08,672 - WARNING - Could not find field with label: Your phone number
+2024-12-08 18:17:11,728 - INFO - Submitted form 1
+2024-12-08 18:17:13,870 - INFO - Processing form submission 2
+2024-12-08 18:17:44,781 - WARNING - Could not find field with label: Your phone number
+2024-12-08 18:17:48,455 - INFO - Submitted form 2
+2024-12-08 18:21:04,880 - INFO - ====== WebDriver manager ======
+2024-12-08 18:21:06,612 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:21:07,244 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:21:07,773 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:21:09,607 - INFO - Browser setup completed successfully
+2024-12-08 18:21:13,283 - INFO - Found field: Your phone number (tel)
+2024-12-08 18:21:13,283 - INFO - Found 1 form fields
+2024-12-08 18:21:15,996 - ERROR - Error creating Excel template: [Errno 13] Permission denied: 'form_template.xlsx'
+2024-12-08 18:21:15,997 - ERROR - Error in main: [Errno 13] Permission denied: 'form_template.xlsx'
+2024-12-08 18:21:40,398 - INFO - Loaded 2 rows of data from Excel
+2024-12-08 18:21:40,398 - INFO - ====== WebDriver manager ======
+2024-12-08 18:21:42,160 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:21:42,731 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:21:43,427 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:21:45,112 - INFO - Browser setup completed successfully
+2024-12-08 18:21:47,375 - INFO - Processing form submission 1
+2024-12-08 18:21:50,364 - INFO - Filled field 'Your phone number' with value: 9987568422
+2024-12-08 18:21:53,743 - INFO - Submitted form 1
+2024-12-08 18:21:56,019 - INFO - Processing form submission 2
+2024-12-08 18:21:58,422 - INFO - Filled field 'Your phone number' with value: 7718059978
+2024-12-08 18:22:02,195 - INFO - Submitted form 2
+2024-12-08 18:26:07,108 - INFO - ====== WebDriver manager ======
+2024-12-08 18:26:09,030 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:26:09,738 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:26:10,275 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:26:12,180 - INFO - Browser setup completed successfully
+2024-12-08 18:26:20,223 - INFO - Found field: First Name (text)
+2024-12-08 18:26:20,300 - INFO - Found field: Middle Name (text)
+2024-12-08 18:26:20,378 - INFO - Found field: Last Name (text)
+2024-12-08 18:26:20,461 - INFO - Found field: Suffix (text)
+2024-12-08 18:26:20,548 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_trackflagcode (select-one)
+2024-12-08 18:26:20,662 - INFO - Found field: Application Number (text)
+2024-12-08 18:26:20,749 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_customerproducttype (select-one)
+2024-12-08 18:26:20,869 - INFO - Found field: Home Landline Prefix Placeholder (text)
+2024-12-08 18:26:20,976 - INFO - Found field: Portal Landline Number (text)
+2024-12-08 18:26:21,092 - INFO - Found field: Corporate Code (text)
+2024-12-08 18:26:21,223 - INFO - Found field: 02 (text)
+2024-12-08 18:26:21,315 - INFO - Found field: Personal Mobile Number (text)
+2024-12-08 18:26:21,411 - INFO - Found field: codrp (select-one)
+2024-12-08 18:26:21,503 - INFO - Found field: Mobile Number (text)
+2024-12-08 18:26:21,577 - INFO - Found field: Email Address (email)
+2024-12-08 18:26:21,642 - INFO - Found field: +632XXXXXXXXX (text)
+2024-12-08 18:26:21,717 - INFO - Found field: cotext1 (select-one)
+2024-12-08 18:26:21,791 - INFO - Found field: areadrp (select-one)
+2024-12-08 18:26:21,866 - INFO - Found field: Landline Number (text)
+2024-12-08 18:26:21,941 - INFO - Found field: Landline Number (text)
+2024-12-08 18:26:22,013 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_dataprivacyconsentcode (select-one)
+2024-12-08 18:26:22,078 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_productportalinternaluse (select-one)
+2024-12-08 18:26:22,154 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_termsandconditionscheck (select-one)
+2024-12-08 18:26:22,239 - INFO - Found field: Lookup records×CloseWe're sorry, an error has occurred.There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Error×CloseWe're sorry, an error has occurred.CloseSelectCancelRemove value (text)
+2024-12-08 18:26:22,330 - INFO - Found field: Search (text)
+2024-12-08 18:26:22,426 - INFO - Found field: Token (text)
+2024-12-08 18:26:22,533 - INFO - Found field: Portal Mobile Number (text)
+2024-12-08 18:26:22,710 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$NextButton (button)
+2024-12-08 18:26:22,807 - INFO - Found field: closePopup (button)
+2024-12-08 18:26:22,890 - INFO - Found field: tccheck1 (checkbox)
+2024-12-08 18:26:22,981 - INFO - Found field: insbtn1 (button)
+2024-12-08 18:26:23,082 - INFO - Found field: tccheck2 (checkbox)
+2024-12-08 18:26:23,192 - INFO - Found field: insbtn2 (button)
+2024-12-08 18:26:23,290 - INFO - Found field: tccheck3 (checkbox)
+2024-12-08 18:26:23,373 - INFO - Found field: insbtn4 (button)
+2024-12-08 18:26:23,453 - INFO - Found field: insbtn3 (button)
+2024-12-08 18:26:23,534 - INFO - Found field: tccheckFac (checkbox)
+2024-12-08 18:26:23,709 - INFO - Found field: insbtnFAC (button)
+2024-12-08 18:26:23,815 - INFO - Found field: personalbtn (button)
+2024-12-08 18:26:23,926 - INFO - Found field: Capture (button)
+2024-12-08 18:26:24,034 - INFO - Found field: img-input1 (file)
+2024-12-08 18:26:24,143 - INFO - Found field: multiNxtBtn (button)
+2024-12-08 18:26:24,232 - INFO - Found field: closePopup4 (button)
+2024-12-08 18:26:24,438 - INFO - Found field: InsertButton (button)
+2024-12-08 18:26:24,542 - INFO - Found field: InsertButton (button)
+2024-12-08 18:26:24,638 - INFO - Found field: g-recaptcha-response (textarea)
+2024-12-08 18:26:24,638 - INFO - Found 46 form fields
+2024-12-08 18:26:27,093 - ERROR - Error creating Excel template: [Errno 13] Permission denied: 'form_template.xlsx'
+2024-12-08 18:26:27,093 - ERROR - Error in main: [Errno 13] Permission denied: 'form_template.xlsx'
+2024-12-08 18:27:22,025 - INFO - ====== WebDriver manager ======
+2024-12-08 18:27:23,771 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:27:25,728 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:27:26,360 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:27:28,204 - INFO - Browser setup completed successfully
+2024-12-08 18:27:35,687 - INFO - Found field: First Name (text)
+2024-12-08 18:27:35,782 - INFO - Found field: Middle Name (text)
+2024-12-08 18:27:35,850 - INFO - Found field: Last Name (text)
+2024-12-08 18:27:35,919 - INFO - Found field: Suffix (text)
+2024-12-08 18:27:35,982 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_trackflagcode (select-one)
+2024-12-08 18:27:36,046 - INFO - Found field: Application Number (text)
+2024-12-08 18:27:36,112 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_customerproducttype (select-one)
+2024-12-08 18:27:36,179 - INFO - Found field: Home Landline Prefix Placeholder (text)
+2024-12-08 18:27:36,236 - INFO - Found field: Portal Landline Number (text)
+2024-12-08 18:27:36,551 - INFO - Found field: Corporate Code (text)
+2024-12-08 18:27:36,647 - INFO - Found field: 02 (text)
+2024-12-08 18:27:36,746 - INFO - Found field: Personal Mobile Number (text)
+2024-12-08 18:27:36,899 - INFO - Found field: codrp (select-one)
+2024-12-08 18:27:37,006 - INFO - Found field: Mobile Number (text)
+2024-12-08 18:27:37,118 - INFO - Found field: Email Address (email)
+2024-12-08 18:27:37,197 - INFO - Found field: +632XXXXXXXXX (text)
+2024-12-08 18:27:37,279 - INFO - Found field: cotext1 (select-one)
+2024-12-08 18:27:37,402 - INFO - Found field: areadrp (select-one)
+2024-12-08 18:27:37,509 - INFO - Found field: Landline Number (text)
+2024-12-08 18:27:37,625 - INFO - Found field: Landline Number (text)
+2024-12-08 18:27:37,717 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_dataprivacyconsentcode (select-one)
+2024-12-08 18:27:37,807 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_productportalinternaluse (select-one)
+2024-12-08 18:27:37,885 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$EntityFormView$infy_termsandconditionscheck (select-one)
+2024-12-08 18:27:37,973 - INFO - Found field: Lookup records×CloseWe're sorry, an error has occurred.There are no records to display.You don't have permissions to view these records.Error completing request.  Loading... Error×CloseWe're sorry, an error has occurred.CloseSelectCancelRemove value (text)
+2024-12-08 18:27:38,053 - INFO - Found field: Search (text)
+2024-12-08 18:27:38,139 - INFO - Found field: Token (text)
+2024-12-08 18:27:38,259 - INFO - Found field: Portal Mobile Number (text)
+2024-12-08 18:27:38,441 - INFO - Found field: ctl00$ContentContainer$WebFormControl_50052ed5c76aeb11a812002248167989$NextButton (button)
+2024-12-08 18:27:38,550 - INFO - Found field: closePopup (button)
+2024-12-08 18:27:38,656 - INFO - Found field: tccheck1 (checkbox)
+2024-12-08 18:27:38,777 - INFO - Found field: insbtn1 (button)
+2024-12-08 18:27:38,887 - INFO - Found field: tccheck2 (checkbox)
+2024-12-08 18:27:38,996 - INFO - Found field: insbtn2 (button)
+2024-12-08 18:27:39,095 - INFO - Found field: tccheck3 (checkbox)
+2024-12-08 18:27:39,211 - INFO - Found field: insbtn4 (button)
+2024-12-08 18:27:39,320 - INFO - Found field: insbtn3 (button)
+2024-12-08 18:27:39,407 - INFO - Found field: tccheckFac (checkbox)
+2024-12-08 18:27:39,496 - INFO - Found field: insbtnFAC (button)
+2024-12-08 18:27:39,583 - INFO - Found field: personalbtn (button)
+2024-12-08 18:27:39,682 - INFO - Found field: Capture (button)
+2024-12-08 18:27:39,769 - INFO - Found field: img-input1 (file)
+2024-12-08 18:27:39,861 - INFO - Found field: multiNxtBtn (button)
+2024-12-08 18:27:39,963 - INFO - Found field: closePopup4 (button)
+2024-12-08 18:27:40,172 - INFO - Found field: InsertButton (button)
+2024-12-08 18:27:40,264 - INFO - Found field: InsertButton (button)
+2024-12-08 18:27:40,369 - INFO - Found field: g-recaptcha-response (textarea)
+2024-12-08 18:27:40,370 - INFO - Found 46 form fields
+2024-12-08 18:27:43,801 - INFO - Created Excel template: form_template.xlsx

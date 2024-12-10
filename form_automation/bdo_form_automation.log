@@ -1,0 +1,1465 @@
+2024-12-08 18:50:02,646 - INFO - ====== WebDriver manager ======
+2024-12-08 18:50:05,125 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:50:06,238 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:50:06,788 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:50:09,413 - INFO - Browser setup completed successfully
+2024-12-08 18:50:30,946 - ERROR - Timeout while filling form: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F434DB25+13829]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6F45D9504+2071156]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6F45396F6+1416294]
+	(No symbol) [0x00007FF6F410D89C]
+	(No symbol) [0x00007FF6F410DA5B]
+	(No symbol) [0x00007FF6F414B197]
+	(No symbol) [0x00007FF6F412DFAF]
+	(No symbol) [0x00007FF6F4103E07]
+	(No symbol) [0x00007FF6F4148A74]
+	(No symbol) [0x00007FF6F412DBD3]
+	(No symbol) [0x00007FF6F4103354]
+	(No symbol) [0x00007FF6F4102686]
+	(No symbol) [0x00007FF6F4102F41]
+	(No symbol) [0x00007FF6F418E344]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6F423CD3F+37535]
+	Microsoft::Applications::Events::EventProperty::clear [0x00007FF6F4192323+11875]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6F4694809+272249]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42E44F1+479793]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42DFF34+461940]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42E0079+462265]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42D4CC6+416262]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 18:50:33,292 - ERROR - Main execution error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F434DB25+13829]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6F45D9504+2071156]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6F45396F6+1416294]
+	(No symbol) [0x00007FF6F410D89C]
+	(No symbol) [0x00007FF6F410DA5B]
+	(No symbol) [0x00007FF6F414B197]
+	(No symbol) [0x00007FF6F412DFAF]
+	(No symbol) [0x00007FF6F4103E07]
+	(No symbol) [0x00007FF6F4148A74]
+	(No symbol) [0x00007FF6F412DBD3]
+	(No symbol) [0x00007FF6F4103354]
+	(No symbol) [0x00007FF6F4102686]
+	(No symbol) [0x00007FF6F4102F41]
+	(No symbol) [0x00007FF6F418E344]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6F423CD3F+37535]
+	Microsoft::Applications::Events::EventProperty::clear [0x00007FF6F4192323+11875]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6F4694809+272249]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42E44F1+479793]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42DFF34+461940]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42E0079+462265]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6F42D4CC6+416262]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 18:57:16,955 - INFO - ====== WebDriver manager ======
+2024-12-08 18:57:19,511 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:57:20,186 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:57:20,751 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:57:23,235 - INFO - Browser setup completed successfully
+2024-12-08 18:57:55,335 - ERROR - Error finding element input[placeholder="Email Address"]: Message: 
+
+2024-12-08 18:57:55,336 - ERROR - Error filling input input[placeholder="Email Address"]: Message: 
+
+2024-12-08 18:57:55,336 - ERROR - Error filling form for 1234567890: Message: 
+
+2024-12-08 18:57:55,336 - ERROR - Failed to process number: 1234567890
+2024-12-08 18:58:04,037 - INFO - ====== WebDriver manager ======
+2024-12-08 18:58:06,014 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:58:06,887 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:58:07,645 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:58:09,606 - INFO - Browser setup completed successfully
+2024-12-08 18:58:43,842 - ERROR - Error finding element input[placeholder="Email Address"]: Message: 
+
+2024-12-08 18:58:43,843 - ERROR - Error filling input input[placeholder="Email Address"]: Message: 
+
+2024-12-08 18:58:43,843 - ERROR - Error filling form for 9876543210: Message: 
+
+2024-12-08 18:58:43,843 - ERROR - Failed to process number: 9876543210
+2024-12-08 18:58:52,057 - INFO - ====== WebDriver manager ======
+2024-12-08 18:58:57,055 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:58:58,377 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 18:58:59,197 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 18:59:02,113 - INFO - Browser setup completed successfully
+2024-12-08 18:59:34,647 - ERROR - Error finding element input[placeholder="Email Address"]: Message: 
+
+2024-12-08 18:59:34,649 - ERROR - Error filling input input[placeholder="Email Address"]: Message: 
+
+2024-12-08 18:59:34,650 - ERROR - Error filling form for 5555555555: Message: 
+
+2024-12-08 18:59:34,651 - ERROR - Failed to process number: 5555555555
+2024-12-08 18:59:40,249 - INFO - Processed 0 successfully, 3 failed
+2024-12-08 19:04:51,613 - INFO - ====== WebDriver manager ======
+2024-12-08 19:04:53,770 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 19:04:54,373 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 19:04:54,987 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-08 19:04:57,435 - INFO - Browser setup completed successfully
+2024-12-08 19:05:09,998 - ERROR - Error finding element input[placeholder="Email Address"]: 'NoneType' object has no attribute 'is_displayed'
+2024-12-08 19:05:10,002 - ERROR - Error filling input input[placeholder="Email Address"]: 'NoneType' object has no attribute 'is_displayed'
+2024-12-08 19:05:10,008 - ERROR - Error filling form for 1234567890: 'NoneType' object has no attribute 'is_displayed'
+2024-12-08 19:05:10,127 - ERROR - Failed to process number: 1234567890
+2024-12-08 19:05:17,872 - INFO - ====== WebDriver manager ======
+2024-12-08 19:05:19,637 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-08 19:14:04,425 - INFO - ====== WebDriver manager ======
+2024-12-08 19:14:06,708 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:14:07,484 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:14:08,190 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-08 19:14:08,325 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:14:08,325 - ERROR - Error processing 1234567890: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:14:09,859 - INFO - ====== WebDriver manager ======
+2024-12-08 19:14:11,931 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:14:12,775 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:14:13,599 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-08 19:14:13,613 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:14:13,614 - ERROR - Error processing 9876543210: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:14:15,425 - INFO - ====== WebDriver manager ======
+2024-12-08 19:14:17,013 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:14:17,833 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:14:18,510 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-08 19:14:18,514 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:14:18,514 - ERROR - Error processing 5555555555: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:14:20,463 - INFO - Processed 0 successfully, 3 failed
+2024-12-08 19:16:42,842 - INFO - Browser setup completed successfully
+2024-12-08 19:17:13,643 - ERROR - Error finding element select[aria-label="Personal Mobile Number"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:17:13,645 - ERROR - Error selecting country code +44: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:17:13,646 - ERROR - Error filling form for 1234567890: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:17:13,649 - ERROR - Failed to process number: 1234567890
+2024-12-08 19:17:24,482 - INFO - Browser setup completed successfully
+2024-12-08 19:17:55,581 - ERROR - Error finding element select[aria-label="Personal Mobile Number"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:17:55,583 - ERROR - Error selecting country code +44: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:17:55,585 - ERROR - Error filling form for 9876543210: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:17:55,587 - ERROR - Failed to process number: 9876543210
+2024-12-08 19:18:06,945 - INFO - Browser setup completed successfully
+2024-12-08 19:18:37,947 - ERROR - Error finding element select[aria-label="Personal Mobile Number"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:18:37,986 - ERROR - Error selecting country code +44: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:18:37,989 - ERROR - Error filling form for 5555555555: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A6866CF5+28821]
+	(No symbol) [0x00007FF7A67D3880]
+	(No symbol) [0x00007FF7A667578A]
+	(No symbol) [0x00007FF7A66C91BE]
+	(No symbol) [0x00007FF7A66C94AC]
+	(No symbol) [0x00007FF7A6712647]
+	(No symbol) [0x00007FF7A66EF33F]
+	(No symbol) [0x00007FF7A670F412]
+	(No symbol) [0x00007FF7A66EF0A3]
+	(No symbol) [0x00007FF7A66BA778]
+	(No symbol) [0x00007FF7A66BB8E1]
+	GetHandleVerifier [0x00007FF7A6B9FCED+3408013]
+	GetHandleVerifier [0x00007FF7A6BB745F+3504127]
+	GetHandleVerifier [0x00007FF7A6BAB63D+3455453]
+	GetHandleVerifier [0x00007FF7A692BDFB+835995]
+	(No symbol) [0x00007FF7A67DEB9F]
+	(No symbol) [0x00007FF7A67DA854]
+	(No symbol) [0x00007FF7A67DA9ED]
+	(No symbol) [0x00007FF7A67CA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:18:37,990 - ERROR - Failed to process number: 5555555555
+2024-12-08 19:18:41,844 - INFO - Processed 0 successfully, 3 failed
+2024-12-08 19:24:22,104 - ERROR - Error setting up browser: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF772BD6CF5+28821]
+	(No symbol) [0x00007FF772B43880]
+	(No symbol) [0x00007FF7729E578A]
+	(No symbol) [0x00007FF772A1FC46]
+	(No symbol) [0x00007FF772A1BAC9]
+	(No symbol) [0x00007FF772A6A4FA]
+	(No symbol) [0x00007FF772A69B30]
+	(No symbol) [0x00007FF772A5F0A3]
+	(No symbol) [0x00007FF772A2A778]
+	(No symbol) [0x00007FF772A2B8E1]
+	GetHandleVerifier [0x00007FF772F0FCED+3408013]
+	GetHandleVerifier [0x00007FF772F2745F+3504127]
+	GetHandleVerifier [0x00007FF772F1B63D+3455453]
+	GetHandleVerifier [0x00007FF772C9BDFB+835995]
+	(No symbol) [0x00007FF772B4EB9F]
+	(No symbol) [0x00007FF772B4A854]
+	(No symbol) [0x00007FF772B4A9ED]
+	(No symbol) [0x00007FF772B3A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:24:22,109 - ERROR - Error in main process: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF772BD6CF5+28821]
+	(No symbol) [0x00007FF772B43880]
+	(No symbol) [0x00007FF7729E578A]
+	(No symbol) [0x00007FF772A1FC46]
+	(No symbol) [0x00007FF772A1BAC9]
+	(No symbol) [0x00007FF772A6A4FA]
+	(No symbol) [0x00007FF772A69B30]
+	(No symbol) [0x00007FF772A5F0A3]
+	(No symbol) [0x00007FF772A2A778]
+	(No symbol) [0x00007FF772A2B8E1]
+	GetHandleVerifier [0x00007FF772F0FCED+3408013]
+	GetHandleVerifier [0x00007FF772F2745F+3504127]
+	GetHandleVerifier [0x00007FF772F1B63D+3455453]
+	GetHandleVerifier [0x00007FF772C9BDFB+835995]
+	(No symbol) [0x00007FF772B4EB9F]
+	(No symbol) [0x00007FF772B4A854]
+	(No symbol) [0x00007FF772B4A9ED]
+	(No symbol) [0x00007FF772B3A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:25:46,203 - ERROR - Error setting up browser: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BC1A6CF5+28821]
+	(No symbol) [0x00007FF6BC113880]
+	(No symbol) [0x00007FF6BBFB578A]
+	(No symbol) [0x00007FF6BBFEFC46]
+	(No symbol) [0x00007FF6BBFEBAC9]
+	(No symbol) [0x00007FF6BC03A4FA]
+	(No symbol) [0x00007FF6BC039B30]
+	(No symbol) [0x00007FF6BC02F0A3]
+	(No symbol) [0x00007FF6BBFFA778]
+	(No symbol) [0x00007FF6BBFFB8E1]
+	GetHandleVerifier [0x00007FF6BC4DFCED+3408013]
+	GetHandleVerifier [0x00007FF6BC4F745F+3504127]
+	GetHandleVerifier [0x00007FF6BC4EB63D+3455453]
+	GetHandleVerifier [0x00007FF6BC26BDFB+835995]
+	(No symbol) [0x00007FF6BC11EB9F]
+	(No symbol) [0x00007FF6BC11A854]
+	(No symbol) [0x00007FF6BC11A9ED]
+	(No symbol) [0x00007FF6BC10A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:25:46,210 - ERROR - Error in main process: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BC1A6CF5+28821]
+	(No symbol) [0x00007FF6BC113880]
+	(No symbol) [0x00007FF6BBFB578A]
+	(No symbol) [0x00007FF6BBFEFC46]
+	(No symbol) [0x00007FF6BBFEBAC9]
+	(No symbol) [0x00007FF6BC03A4FA]
+	(No symbol) [0x00007FF6BC039B30]
+	(No symbol) [0x00007FF6BC02F0A3]
+	(No symbol) [0x00007FF6BBFFA778]
+	(No symbol) [0x00007FF6BBFFB8E1]
+	GetHandleVerifier [0x00007FF6BC4DFCED+3408013]
+	GetHandleVerifier [0x00007FF6BC4F745F+3504127]
+	GetHandleVerifier [0x00007FF6BC4EB63D+3455453]
+	GetHandleVerifier [0x00007FF6BC26BDFB+835995]
+	(No symbol) [0x00007FF6BC11EB9F]
+	(No symbol) [0x00007FF6BC11A854]
+	(No symbol) [0x00007FF6BC11A9ED]
+	(No symbol) [0x00007FF6BC10A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:29:31,039 - ERROR - Error setting up browser: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7042D6CF5+28821]
+	(No symbol) [0x00007FF704243880]
+	(No symbol) [0x00007FF7040E578A]
+	(No symbol) [0x00007FF70411FC46]
+	(No symbol) [0x00007FF70411BAC9]
+	(No symbol) [0x00007FF70416A4FA]
+	(No symbol) [0x00007FF704169B30]
+	(No symbol) [0x00007FF70415F0A3]
+	(No symbol) [0x00007FF70412A778]
+	(No symbol) [0x00007FF70412B8E1]
+	GetHandleVerifier [0x00007FF70460FCED+3408013]
+	GetHandleVerifier [0x00007FF70462745F+3504127]
+	GetHandleVerifier [0x00007FF70461B63D+3455453]
+	GetHandleVerifier [0x00007FF70439BDFB+835995]
+	(No symbol) [0x00007FF70424EB9F]
+	(No symbol) [0x00007FF70424A854]
+	(No symbol) [0x00007FF70424A9ED]
+	(No symbol) [0x00007FF70423A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:29:31,047 - ERROR - Error in main process: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7042D6CF5+28821]
+	(No symbol) [0x00007FF704243880]
+	(No symbol) [0x00007FF7040E578A]
+	(No symbol) [0x00007FF70411FC46]
+	(No symbol) [0x00007FF70411BAC9]
+	(No symbol) [0x00007FF70416A4FA]
+	(No symbol) [0x00007FF704169B30]
+	(No symbol) [0x00007FF70415F0A3]
+	(No symbol) [0x00007FF70412A778]
+	(No symbol) [0x00007FF70412B8E1]
+	GetHandleVerifier [0x00007FF70460FCED+3408013]
+	GetHandleVerifier [0x00007FF70462745F+3504127]
+	GetHandleVerifier [0x00007FF70461B63D+3455453]
+	GetHandleVerifier [0x00007FF70439BDFB+835995]
+	(No symbol) [0x00007FF70424EB9F]
+	(No symbol) [0x00007FF70424A854]
+	(No symbol) [0x00007FF70424A9ED]
+	(No symbol) [0x00007FF70423A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:31:32,015 - INFO - ====== WebDriver manager ======
+2024-12-08 19:31:34,136 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:31:35,566 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:31:36,679 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-08 19:31:36,686 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:31:36,687 - ERROR - Error in main process: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:32:09,828 - INFO - ====== WebDriver manager ======
+2024-12-08 19:32:12,155 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:32:13,186 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-08 19:32:14,020 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-08 19:32:14,025 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:32:14,025 - ERROR - Error in main process: [WinError 193] %1 is not a valid Win32 application
+2024-12-08 19:34:19,484 - INFO - Browser setup completed successfully
+2024-12-08 19:34:33,080 - ERROR - Error filling input input[placeholder="Email Address"]: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF647686CF5+28821]
+	(No symbol) [0x00007FF6475F3880]
+	(No symbol) [0x00007FF6474955B9]
+	(No symbol) [0x00007FF6474DEA05]
+	(No symbol) [0x00007FF64750F2FA]
+	(No symbol) [0x00007FF6474DC3F6]
+	(No symbol) [0x00007FF64750F510]
+	(No symbol) [0x00007FF64752F412]
+	(No symbol) [0x00007FF64750F0A3]
+	(No symbol) [0x00007FF6474DA778]
+	(No symbol) [0x00007FF6474DB8E1]
+	GetHandleVerifier [0x00007FF6479BFCED+3408013]
+	GetHandleVerifier [0x00007FF6479D745F+3504127]
+	GetHandleVerifier [0x00007FF6479CB63D+3455453]
+	GetHandleVerifier [0x00007FF64774BDFB+835995]
+	(No symbol) [0x00007FF6475FEB9F]
+	(No symbol) [0x00007FF6475FA854]
+	(No symbol) [0x00007FF6475FA9ED]
+	(No symbol) [0x00007FF6475EA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:34:33,084 - ERROR - Failed to process number: 1234567890
+2024-12-08 19:34:42,307 - ERROR - Error filling input input[placeholder="Email Address"]: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF647686CF5+28821]
+	(No symbol) [0x00007FF6475F3880]
+	(No symbol) [0x00007FF6474955B9]
+	(No symbol) [0x00007FF6474DEA05]
+	(No symbol) [0x00007FF64750F2FA]
+	(No symbol) [0x00007FF6474DC3F6]
+	(No symbol) [0x00007FF64750F510]
+	(No symbol) [0x00007FF64752F412]
+	(No symbol) [0x00007FF64750F0A3]
+	(No symbol) [0x00007FF6474DA778]
+	(No symbol) [0x00007FF6474DB8E1]
+	GetHandleVerifier [0x00007FF6479BFCED+3408013]
+	GetHandleVerifier [0x00007FF6479D745F+3504127]
+	GetHandleVerifier [0x00007FF6479CB63D+3455453]
+	GetHandleVerifier [0x00007FF64774BDFB+835995]
+	(No symbol) [0x00007FF6475FEB9F]
+	(No symbol) [0x00007FF6475FA854]
+	(No symbol) [0x00007FF6475FA9ED]
+	(No symbol) [0x00007FF6475EA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:34:42,313 - ERROR - Failed to process number: 9876543210
+2024-12-08 19:34:51,182 - ERROR - Error filling input input[placeholder="Email Address"]: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF647686CF5+28821]
+	(No symbol) [0x00007FF6475F3880]
+	(No symbol) [0x00007FF6474955B9]
+	(No symbol) [0x00007FF6474DEA05]
+	(No symbol) [0x00007FF64750F2FA]
+	(No symbol) [0x00007FF6474DC3F6]
+	(No symbol) [0x00007FF64750F510]
+	(No symbol) [0x00007FF64752F412]
+	(No symbol) [0x00007FF64750F0A3]
+	(No symbol) [0x00007FF6474DA778]
+	(No symbol) [0x00007FF6474DB8E1]
+	GetHandleVerifier [0x00007FF6479BFCED+3408013]
+	GetHandleVerifier [0x00007FF6479D745F+3504127]
+	GetHandleVerifier [0x00007FF6479CB63D+3455453]
+	GetHandleVerifier [0x00007FF64774BDFB+835995]
+	(No symbol) [0x00007FF6475FEB9F]
+	(No symbol) [0x00007FF6475FA854]
+	(No symbol) [0x00007FF6475FA9ED]
+	(No symbol) [0x00007FF6475EA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:34:51,185 - ERROR - Failed to process number: 5555555555
+2024-12-08 19:34:53,061 - INFO - Processed 0 successfully, 3 failed
+2024-12-08 19:39:05,529 - INFO - Browser setup completed successfully
+2024-12-08 19:39:49,651 - ERROR - Error finding element button[type="submit"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76DF46CF5+28821]
+	(No symbol) [0x00007FF76DEB3880]
+	(No symbol) [0x00007FF76DD5578A]
+	(No symbol) [0x00007FF76DDA91BE]
+	(No symbol) [0x00007FF76DDA94AC]
+	(No symbol) [0x00007FF76DDF2647]
+	(No symbol) [0x00007FF76DDCF33F]
+	(No symbol) [0x00007FF76DDEF412]
+	(No symbol) [0x00007FF76DDCF0A3]
+	(No symbol) [0x00007FF76DD9A778]
+	(No symbol) [0x00007FF76DD9B8E1]
+	GetHandleVerifier [0x00007FF76E27FCED+3408013]
+	GetHandleVerifier [0x00007FF76E29745F+3504127]
+	GetHandleVerifier [0x00007FF76E28B63D+3455453]
+	GetHandleVerifier [0x00007FF76E00BDFB+835995]
+	(No symbol) [0x00007FF76DEBEB9F]
+	(No symbol) [0x00007FF76DEBA854]
+	(No symbol) [0x00007FF76DEBA9ED]
+	(No symbol) [0x00007FF76DEAA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:39:49,664 - ERROR - Failed to process number: 1234567890
+2024-12-08 19:39:59,339 - ERROR - Error finding element input[placeholder="First Name"]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76DF46CF5+28821]
+	(No symbol) [0x00007FF76DEB3880]
+	(No symbol) [0x00007FF76DD5578A]
+	(No symbol) [0x00007FF76DD2F4F5]
+	(No symbol) [0x00007FF76DDD6247]
+	(No symbol) [0x00007FF76DDEECE2]
+	(No symbol) [0x00007FF76DDCF0A3]
+	(No symbol) [0x00007FF76DD9A778]
+	(No symbol) [0x00007FF76DD9B8E1]
+	GetHandleVerifier [0x00007FF76E27FCED+3408013]
+	GetHandleVerifier [0x00007FF76E29745F+3504127]
+	GetHandleVerifier [0x00007FF76E28B63D+3455453]
+	GetHandleVerifier [0x00007FF76E00BDFB+835995]
+	(No symbol) [0x00007FF76DEBEB9F]
+	(No symbol) [0x00007FF76DEBA854]
+	(No symbol) [0x00007FF76DEBA9ED]
+	(No symbol) [0x00007FF76DEAA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:39:59,342 - ERROR - Failed to process number: 9876543210
+2024-12-08 19:40:03,873 - ERROR - Error finding element input[placeholder="First Name"]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76DF46CF5+28821]
+	(No symbol) [0x00007FF76DEB3880]
+	(No symbol) [0x00007FF76DD5578A]
+	(No symbol) [0x00007FF76DD2F4F5]
+	(No symbol) [0x00007FF76DDD6247]
+	(No symbol) [0x00007FF76DDEECE2]
+	(No symbol) [0x00007FF76DDCF0A3]
+	(No symbol) [0x00007FF76DD9A778]
+	(No symbol) [0x00007FF76DD9B8E1]
+	GetHandleVerifier [0x00007FF76E27FCED+3408013]
+	GetHandleVerifier [0x00007FF76E29745F+3504127]
+	GetHandleVerifier [0x00007FF76E28B63D+3455453]
+	GetHandleVerifier [0x00007FF76E00BDFB+835995]
+	(No symbol) [0x00007FF76DEBEB9F]
+	(No symbol) [0x00007FF76DEBA854]
+	(No symbol) [0x00007FF76DEBA9ED]
+	(No symbol) [0x00007FF76DEAA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:40:03,875 - ERROR - Failed to process number: 5555555555
+2024-12-08 19:40:05,859 - INFO - Processed 0 successfully, 3 failed
+2024-12-08 19:48:45,294 - INFO - Browser setup completed successfully
+2024-12-08 19:49:20,270 - ERROR - Error finding element //div[contains(@class, "phone-input")]//div[contains(@class, "selected-flag")]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF64ED86CF5+28821]
+	(No symbol) [0x00007FF64ECF3880]
+	(No symbol) [0x00007FF64EB9578A]
+	(No symbol) [0x00007FF64EBE91BE]
+	(No symbol) [0x00007FF64EBE94AC]
+	(No symbol) [0x00007FF64EC32647]
+	(No symbol) [0x00007FF64EC0F33F]
+	(No symbol) [0x00007FF64EC2F412]
+	(No symbol) [0x00007FF64EC0F0A3]
+	(No symbol) [0x00007FF64EBDA778]
+	(No symbol) [0x00007FF64EBDB8E1]
+	GetHandleVerifier [0x00007FF64F0BFCED+3408013]
+	GetHandleVerifier [0x00007FF64F0D745F+3504127]
+	GetHandleVerifier [0x00007FF64F0CB63D+3455453]
+	GetHandleVerifier [0x00007FF64EE4BDFB+835995]
+	(No symbol) [0x00007FF64ECFEB9F]
+	(No symbol) [0x00007FF64ECFA854]
+	(No symbol) [0x00007FF64ECFA9ED]
+	(No symbol) [0x00007FF64ECEA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:49:20,282 - ERROR - Failed to process number: 1234567890
+2024-12-08 19:49:48,385 - ERROR - Error finding element //div[contains(@class, "phone-input")]//div[contains(@class, "selected-flag")]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF64ED86CF5+28821]
+	(No symbol) [0x00007FF64ECF3880]
+	(No symbol) [0x00007FF64EB9578A]
+	(No symbol) [0x00007FF64EBE91BE]
+	(No symbol) [0x00007FF64EBE94AC]
+	(No symbol) [0x00007FF64EC32647]
+	(No symbol) [0x00007FF64EC0F33F]
+	(No symbol) [0x00007FF64EC2F412]
+	(No symbol) [0x00007FF64EC0F0A3]
+	(No symbol) [0x00007FF64EBDA778]
+	(No symbol) [0x00007FF64EBDB8E1]
+	GetHandleVerifier [0x00007FF64F0BFCED+3408013]
+	GetHandleVerifier [0x00007FF64F0D745F+3504127]
+	GetHandleVerifier [0x00007FF64F0CB63D+3455453]
+	GetHandleVerifier [0x00007FF64EE4BDFB+835995]
+	(No symbol) [0x00007FF64ECFEB9F]
+	(No symbol) [0x00007FF64ECFA854]
+	(No symbol) [0x00007FF64ECFA9ED]
+	(No symbol) [0x00007FF64ECEA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:49:48,388 - ERROR - Failed to process number: 9876543210
+2024-12-08 19:50:16,653 - ERROR - Error finding element //div[contains(@class, "phone-input")]//div[contains(@class, "selected-flag")]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF64ED86CF5+28821]
+	(No symbol) [0x00007FF64ECF3880]
+	(No symbol) [0x00007FF64EB9578A]
+	(No symbol) [0x00007FF64EBE91BE]
+	(No symbol) [0x00007FF64EBE94AC]
+	(No symbol) [0x00007FF64EC32647]
+	(No symbol) [0x00007FF64EC0F33F]
+	(No symbol) [0x00007FF64EC2F412]
+	(No symbol) [0x00007FF64EC0F0A3]
+	(No symbol) [0x00007FF64EBDA778]
+	(No symbol) [0x00007FF64EBDB8E1]
+	GetHandleVerifier [0x00007FF64F0BFCED+3408013]
+	GetHandleVerifier [0x00007FF64F0D745F+3504127]
+	GetHandleVerifier [0x00007FF64F0CB63D+3455453]
+	GetHandleVerifier [0x00007FF64EE4BDFB+835995]
+	(No symbol) [0x00007FF64ECFEB9F]
+	(No symbol) [0x00007FF64ECFA854]
+	(No symbol) [0x00007FF64ECFA9ED]
+	(No symbol) [0x00007FF64ECEA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-08 19:50:16,657 - ERROR - Failed to process number: 5555555555
+2024-12-08 19:50:18,057 - INFO - Processed 0 successfully, 3 failed
+2024-12-08 19:53:50,614 - INFO - Browser setup completed successfully
+2024-12-09 00:36:14,593 - ERROR - Error in main process: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF684FD6CF5+28821]
+	(No symbol) [0x00007FF684F43880]
+	(No symbol) [0x00007FF684DE578A]
+	(No symbol) [0x00007FF684DD3992]
+	(No symbol) [0x00007FF684DD365A]
+	(No symbol) [0x00007FF684DD1274]
+	(No symbol) [0x00007FF684DD1D1F]
+	(No symbol) [0x00007FF684DE084E]
+	(No symbol) [0x00007FF684DF4CF4]
+	(No symbol) [0x00007FF684E7F55A]
+	(No symbol) [0x00007FF684E5F0A3]
+	(No symbol) [0x00007FF684E2A778]
+	(No symbol) [0x00007FF684E2B8E1]
+	GetHandleVerifier [0x00007FF68530FCED+3408013]
+	GetHandleVerifier [0x00007FF68532745F+3504127]
+	GetHandleVerifier [0x00007FF68531B63D+3455453]
+	GetHandleVerifier [0x00007FF68509BDFB+835995]
+	(No symbol) [0x00007FF684F4EB9F]
+	(No symbol) [0x00007FF684F4A854]
+	(No symbol) [0x00007FF684F4A9ED]
+	(No symbol) [0x00007FF684F3A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:37:54,331 - INFO - Browser setup completed successfully
+2024-12-09 00:38:08,337 - ERROR - Error finding element input[placeholder="First Name"]: 'str' object has no attribute 'value'
+2024-12-09 00:38:08,338 - ERROR - Failed to process number: 1234567890
+2024-12-09 00:38:12,433 - ERROR - Error finding element input[placeholder="First Name"]: 'str' object has no attribute 'value'
+2024-12-09 00:38:12,433 - ERROR - Failed to process number: 9876543210
+2024-12-09 00:38:16,691 - ERROR - Error finding element input[placeholder="First Name"]: 'str' object has no attribute 'value'
+2024-12-09 00:38:16,693 - ERROR - Failed to process number: 5555555555
+2024-12-09 00:38:18,406 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 00:40:08,636 - INFO - Browser setup completed successfully
+2024-12-09 00:40:48,043 - ERROR - Error finding element div.selected-flag: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF762316CF5+28821]
+	(No symbol) [0x00007FF762283880]
+	(No symbol) [0x00007FF76212578A]
+	(No symbol) [0x00007FF7621791BE]
+	(No symbol) [0x00007FF7621794AC]
+	(No symbol) [0x00007FF7621C2647]
+	(No symbol) [0x00007FF76219F33F]
+	(No symbol) [0x00007FF7621BF412]
+	(No symbol) [0x00007FF76219F0A3]
+	(No symbol) [0x00007FF76216A778]
+	(No symbol) [0x00007FF76216B8E1]
+	GetHandleVerifier [0x00007FF76264FCED+3408013]
+	GetHandleVerifier [0x00007FF76266745F+3504127]
+	GetHandleVerifier [0x00007FF76265B63D+3455453]
+	GetHandleVerifier [0x00007FF7623DBDFB+835995]
+	(No symbol) [0x00007FF76228EB9F]
+	(No symbol) [0x00007FF76228A854]
+	(No symbol) [0x00007FF76228A9ED]
+	(No symbol) [0x00007FF76227A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:40:48,046 - ERROR - Could not find country flag selector
+2024-12-09 00:40:48,046 - ERROR - Failed to change country code to +44
+2024-12-09 00:40:48,047 - ERROR - Failed to process number: 1234567890
+2024-12-09 00:41:16,429 - ERROR - Error finding element div.selected-flag: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF762316CF5+28821]
+	(No symbol) [0x00007FF762283880]
+	(No symbol) [0x00007FF76212578A]
+	(No symbol) [0x00007FF7621791BE]
+	(No symbol) [0x00007FF7621794AC]
+	(No symbol) [0x00007FF7621C2647]
+	(No symbol) [0x00007FF76219F33F]
+	(No symbol) [0x00007FF7621BF412]
+	(No symbol) [0x00007FF76219F0A3]
+	(No symbol) [0x00007FF76216A778]
+	(No symbol) [0x00007FF76216B8E1]
+	GetHandleVerifier [0x00007FF76264FCED+3408013]
+	GetHandleVerifier [0x00007FF76266745F+3504127]
+	GetHandleVerifier [0x00007FF76265B63D+3455453]
+	GetHandleVerifier [0x00007FF7623DBDFB+835995]
+	(No symbol) [0x00007FF76228EB9F]
+	(No symbol) [0x00007FF76228A854]
+	(No symbol) [0x00007FF76228A9ED]
+	(No symbol) [0x00007FF76227A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:41:16,430 - ERROR - Could not find country flag selector
+2024-12-09 00:41:16,431 - ERROR - Failed to change country code to +44
+2024-12-09 00:41:16,431 - ERROR - Failed to process number: 9876543210
+2024-12-09 00:41:44,054 - ERROR - Error finding element div.selected-flag: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF762316CF5+28821]
+	(No symbol) [0x00007FF762283880]
+	(No symbol) [0x00007FF76212578A]
+	(No symbol) [0x00007FF7621791BE]
+	(No symbol) [0x00007FF7621794AC]
+	(No symbol) [0x00007FF7621C2647]
+	(No symbol) [0x00007FF76219F33F]
+	(No symbol) [0x00007FF7621BF412]
+	(No symbol) [0x00007FF76219F0A3]
+	(No symbol) [0x00007FF76216A778]
+	(No symbol) [0x00007FF76216B8E1]
+	GetHandleVerifier [0x00007FF76264FCED+3408013]
+	GetHandleVerifier [0x00007FF76266745F+3504127]
+	GetHandleVerifier [0x00007FF76265B63D+3455453]
+	GetHandleVerifier [0x00007FF7623DBDFB+835995]
+	(No symbol) [0x00007FF76228EB9F]
+	(No symbol) [0x00007FF76228A854]
+	(No symbol) [0x00007FF76228A9ED]
+	(No symbol) [0x00007FF76227A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:41:44,064 - ERROR - Could not find country flag selector
+2024-12-09 00:41:44,064 - ERROR - Failed to change country code to +44
+2024-12-09 00:41:44,065 - ERROR - Failed to process number: 5555555555
+2024-12-09 00:41:45,199 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 00:46:23,189 - INFO - Browser setup completed successfully
+2024-12-09 00:46:34,878 - ERROR - Error finding element input[placeholder="First Name"]: 'str' object has no attribute 'value'
+2024-12-09 00:46:34,878 - ERROR - Failed to process number: 1234567890
+2024-12-09 00:46:39,763 - ERROR - Error finding element input[placeholder="First Name"]: 'str' object has no attribute 'value'
+2024-12-09 00:46:39,764 - ERROR - Failed to process number: 9876543210
+2024-12-09 00:46:43,897 - ERROR - Error finding element input[placeholder="First Name"]: 'str' object has no attribute 'value'
+2024-12-09 00:46:43,897 - ERROR - Failed to process number: 5555555555
+2024-12-09 00:46:45,758 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 00:51:13,499 - INFO - Browser setup completed successfully
+2024-12-09 00:51:44,688 - ERROR - Error finding element input[name='firstName']: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7723F6CF5+28821]
+	(No symbol) [0x00007FF772363880]
+	(No symbol) [0x00007FF77220578A]
+	(No symbol) [0x00007FF7722591BE]
+	(No symbol) [0x00007FF7722594AC]
+	(No symbol) [0x00007FF7722A2647]
+	(No symbol) [0x00007FF77227F33F]
+	(No symbol) [0x00007FF77229F412]
+	(No symbol) [0x00007FF77227F0A3]
+	(No symbol) [0x00007FF77224A778]
+	(No symbol) [0x00007FF77224B8E1]
+	GetHandleVerifier [0x00007FF77272FCED+3408013]
+	GetHandleVerifier [0x00007FF77274745F+3504127]
+	GetHandleVerifier [0x00007FF77273B63D+3455453]
+	GetHandleVerifier [0x00007FF7724BBDFB+835995]
+	(No symbol) [0x00007FF77236EB9F]
+	(No symbol) [0x00007FF77236A854]
+	(No symbol) [0x00007FF77236A9ED]
+	(No symbol) [0x00007FF77235A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:51:44,712 - ERROR - Failed to process number: 1234567890
+2024-12-09 00:52:09,253 - ERROR - Error finding element input[name='firstName']: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7723F6CF5+28821]
+	(No symbol) [0x00007FF772363880]
+	(No symbol) [0x00007FF77220578A]
+	(No symbol) [0x00007FF7722591BE]
+	(No symbol) [0x00007FF7722594AC]
+	(No symbol) [0x00007FF7722A2647]
+	(No symbol) [0x00007FF77227F33F]
+	(No symbol) [0x00007FF77229F412]
+	(No symbol) [0x00007FF77227F0A3]
+	(No symbol) [0x00007FF77224A778]
+	(No symbol) [0x00007FF77224B8E1]
+	GetHandleVerifier [0x00007FF77272FCED+3408013]
+	GetHandleVerifier [0x00007FF77274745F+3504127]
+	GetHandleVerifier [0x00007FF77273B63D+3455453]
+	GetHandleVerifier [0x00007FF7724BBDFB+835995]
+	(No symbol) [0x00007FF77236EB9F]
+	(No symbol) [0x00007FF77236A854]
+	(No symbol) [0x00007FF77236A9ED]
+	(No symbol) [0x00007FF77235A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:52:09,255 - ERROR - Failed to process number: 9876543210
+2024-12-09 00:52:33,617 - ERROR - Error finding element input[name='firstName']: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7723F6CF5+28821]
+	(No symbol) [0x00007FF772363880]
+	(No symbol) [0x00007FF77220578A]
+	(No symbol) [0x00007FF7722591BE]
+	(No symbol) [0x00007FF7722594AC]
+	(No symbol) [0x00007FF7722A2647]
+	(No symbol) [0x00007FF77227F33F]
+	(No symbol) [0x00007FF77229F412]
+	(No symbol) [0x00007FF77227F0A3]
+	(No symbol) [0x00007FF77224A778]
+	(No symbol) [0x00007FF77224B8E1]
+	GetHandleVerifier [0x00007FF77272FCED+3408013]
+	GetHandleVerifier [0x00007FF77274745F+3504127]
+	GetHandleVerifier [0x00007FF77273B63D+3455453]
+	GetHandleVerifier [0x00007FF7724BBDFB+835995]
+	(No symbol) [0x00007FF77236EB9F]
+	(No symbol) [0x00007FF77236A854]
+	(No symbol) [0x00007FF77236A9ED]
+	(No symbol) [0x00007FF77235A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:52:33,627 - ERROR - Failed to process number: 5555555555
+2024-12-09 00:52:35,525 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 00:57:01,898 - INFO - Browser setup completed successfully
+2024-12-09 00:57:32,759 - ERROR - Error finding element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF643A36CF5+28821]
+	(No symbol) [0x00007FF6439A3880]
+	(No symbol) [0x00007FF64384578A]
+	(No symbol) [0x00007FF6438991BE]
+	(No symbol) [0x00007FF6438994AC]
+	(No symbol) [0x00007FF6438E2647]
+	(No symbol) [0x00007FF6438BF33F]
+	(No symbol) [0x00007FF6438DF412]
+	(No symbol) [0x00007FF6438BF0A3]
+	(No symbol) [0x00007FF64388A778]
+	(No symbol) [0x00007FF64388B8E1]
+	GetHandleVerifier [0x00007FF643D6FCED+3408013]
+	GetHandleVerifier [0x00007FF643D8745F+3504127]
+	GetHandleVerifier [0x00007FF643D7B63D+3455453]
+	GetHandleVerifier [0x00007FF643AFBDFB+835995]
+	(No symbol) [0x00007FF6439AEB9F]
+	(No symbol) [0x00007FF6439AA854]
+	(No symbol) [0x00007FF6439AA9ED]
+	(No symbol) [0x00007FF64399A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:57:32,774 - ERROR - Failed to process number: 1234567890
+2024-12-09 00:57:57,398 - ERROR - Error finding element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF643A36CF5+28821]
+	(No symbol) [0x00007FF6439A3880]
+	(No symbol) [0x00007FF64384578A]
+	(No symbol) [0x00007FF6438991BE]
+	(No symbol) [0x00007FF6438994AC]
+	(No symbol) [0x00007FF6438E2647]
+	(No symbol) [0x00007FF6438BF33F]
+	(No symbol) [0x00007FF6438DF412]
+	(No symbol) [0x00007FF6438BF0A3]
+	(No symbol) [0x00007FF64388A778]
+	(No symbol) [0x00007FF64388B8E1]
+	GetHandleVerifier [0x00007FF643D6FCED+3408013]
+	GetHandleVerifier [0x00007FF643D8745F+3504127]
+	GetHandleVerifier [0x00007FF643D7B63D+3455453]
+	GetHandleVerifier [0x00007FF643AFBDFB+835995]
+	(No symbol) [0x00007FF6439AEB9F]
+	(No symbol) [0x00007FF6439AA854]
+	(No symbol) [0x00007FF6439AA9ED]
+	(No symbol) [0x00007FF64399A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:57:57,403 - ERROR - Failed to process number: 9876543210
+2024-12-09 00:58:22,084 - ERROR - Error finding element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF643A36CF5+28821]
+	(No symbol) [0x00007FF6439A3880]
+	(No symbol) [0x00007FF64384578A]
+	(No symbol) [0x00007FF6438991BE]
+	(No symbol) [0x00007FF6438994AC]
+	(No symbol) [0x00007FF6438E2647]
+	(No symbol) [0x00007FF6438BF33F]
+	(No symbol) [0x00007FF6438DF412]
+	(No symbol) [0x00007FF6438BF0A3]
+	(No symbol) [0x00007FF64388A778]
+	(No symbol) [0x00007FF64388B8E1]
+	GetHandleVerifier [0x00007FF643D6FCED+3408013]
+	GetHandleVerifier [0x00007FF643D8745F+3504127]
+	GetHandleVerifier [0x00007FF643D7B63D+3455453]
+	GetHandleVerifier [0x00007FF643AFBDFB+835995]
+	(No symbol) [0x00007FF6439AEB9F]
+	(No symbol) [0x00007FF6439AA854]
+	(No symbol) [0x00007FF6439AA9ED]
+	(No symbol) [0x00007FF64399A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 00:58:22,087 - ERROR - Failed to process number: 5555555555
+2024-12-09 00:58:24,124 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 01:01:19,997 - INFO - Browser setup completed successfully
+2024-12-09 01:06:53,658 - INFO - Browser setup completed successfully
+2024-12-09 01:07:25,342 - ERROR - Error waiting for element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF651AC6CF5+28821]
+	(No symbol) [0x00007FF651A33880]
+	(No symbol) [0x00007FF6518D578A]
+	(No symbol) [0x00007FF6519291BE]
+	(No symbol) [0x00007FF6519294AC]
+	(No symbol) [0x00007FF651972647]
+	(No symbol) [0x00007FF65194F33F]
+	(No symbol) [0x00007FF65196F412]
+	(No symbol) [0x00007FF65194F0A3]
+	(No symbol) [0x00007FF65191A778]
+	(No symbol) [0x00007FF65191B8E1]
+	GetHandleVerifier [0x00007FF651DFFCED+3408013]
+	GetHandleVerifier [0x00007FF651E1745F+3504127]
+	GetHandleVerifier [0x00007FF651E0B63D+3455453]
+	GetHandleVerifier [0x00007FF651B8BDFB+835995]
+	(No symbol) [0x00007FF651A3EB9F]
+	(No symbol) [0x00007FF651A3A854]
+	(No symbol) [0x00007FF651A3A9ED]
+	(No symbol) [0x00007FF651A2A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:07:25,347 - ERROR - Failed to process number: 1234567890
+2024-12-09 01:07:49,220 - INFO - ====== WebDriver manager ======
+2024-12-09 01:07:53,242 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:07:54,285 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:07:55,188 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:07:56,171 - INFO - About to download new driver from https://msedgedriver.azureedge.net/132.0.2957.26/edgedriver_win64.zip
+2024-12-09 01:07:57,247 - INFO - Driver downloading response is 200
+2024-12-09 01:08:00,182 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:08:01,637 - INFO - Driver has been saved in cache [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26]
+2024-12-09 01:08:04,604 - INFO - Browser setup completed successfully
+2024-12-09 01:08:15,525 - ERROR - Error filling element input[placeholder="Email Address"]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=132.0.2957.26)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B876DB25+13829]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B89F9504+2071156]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B89596F6+1416294]
+	(No symbol) [0x00007FF6B84C7A17]
+	(No symbol) [0x00007FF6B8553B65]
+	(No symbol) [0x00007FF6B856857A]
+	(No symbol) [0x00007FF6B854DBD3]
+	(No symbol) [0x00007FF6B8523354]
+	(No symbol) [0x00007FF6B8522686]
+	(No symbol) [0x00007FF6B8522F41]
+	(No symbol) [0x00007FF6B85AE344]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6B865CD3F+37535]
+	Microsoft::Applications::Events::EventProperty::clear [0x00007FF6B85B2323+11875]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B8AB4809+272249]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B87044F1+479793]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B86FFF34+461940]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B8700079+462265]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B86F4CC6+416262]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:08:15,528 - ERROR - Error filling form for 1234567890: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=132.0.2957.26)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B876DB25+13829]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B89F9504+2071156]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B89596F6+1416294]
+	(No symbol) [0x00007FF6B84C7A17]
+	(No symbol) [0x00007FF6B8553B65]
+	(No symbol) [0x00007FF6B856857A]
+	(No symbol) [0x00007FF6B854DBD3]
+	(No symbol) [0x00007FF6B8523354]
+	(No symbol) [0x00007FF6B8522686]
+	(No symbol) [0x00007FF6B8522F41]
+	(No symbol) [0x00007FF6B85AE344]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6B865CD3F+37535]
+	Microsoft::Applications::Events::EventProperty::clear [0x00007FF6B85B2323+11875]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B8AB4809+272249]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B87044F1+479793]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B86FFF34+461940]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B8700079+462265]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B86F4CC6+416262]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:08:19,439 - INFO - ====== WebDriver manager ======
+2024-12-09 01:08:26,611 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:08:28,013 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:08:29,280 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-09 01:08:41,042 - INFO - Browser setup completed successfully
+2024-12-09 01:08:41,053 - ERROR - Error processing 9876543210: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=132.0.2957.26)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B876DB25+13829]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B89F9504+2071156]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B89596F6+1416294]
+	(No symbol) [0x00007FF6B84C7A17]
+	(No symbol) [0x00007FF6B8553B65]
+	(No symbol) [0x00007FF6B856857A]
+	(No symbol) [0x00007FF6B854DBD3]
+	(No symbol) [0x00007FF6B8523354]
+	(No symbol) [0x00007FF6B8522686]
+	(No symbol) [0x00007FF6B8522F41]
+	(No symbol) [0x00007FF6B85AE344]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6B865CD3F+37535]
+	Microsoft::Applications::Events::EventProperty::clear [0x00007FF6B85B2323+11875]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B8AB4809+272249]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B87044F1+479793]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B86FFF34+461940]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B8700079+462265]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B86F4CC6+416262]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:08:44,804 - INFO - ====== WebDriver manager ======
+2024-12-09 01:08:49,474 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:08:50,658 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2024-12-09 01:08:51,914 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\edgedriver\win64\132.0.2957.26\msedgedriver.exe] found in cache
+2024-12-09 01:09:00,411 - INFO - Browser setup completed successfully
+2024-12-09 01:09:17,937 - INFO - ====== WebDriver manager ======
+2024-12-09 01:09:20,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:21,573 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:22,447 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:24,245 - INFO - WebDriver version 131.0.6778.87 selected
+2024-12-09 01:09:24,249 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.87/win32/chromedriver-win32.zip
+2024-12-09 01:09:24,250 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.87/win32/chromedriver-win32.zip
+2024-12-09 01:09:24,915 - INFO - Driver downloading response is 200
+2024-12-09 01:09:25,861 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:27,119 - INFO - Driver has been saved in cache [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87]
+2024-12-09 01:09:27,181 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-09 01:09:27,181 - ERROR - Error processing 1234567890: [WinError 193] %1 is not a valid Win32 application
+2024-12-09 01:09:28,583 - INFO - ====== WebDriver manager ======
+2024-12-09 01:09:31,294 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:32,357 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:33,351 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-09 01:09:33,355 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-09 01:09:33,356 - ERROR - Error processing 9876543210: [WinError 193] %1 is not a valid Win32 application
+2024-12-09 01:09:34,486 - INFO - ====== WebDriver manager ======
+2024-12-09 01:09:37,534 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:38,796 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-09 01:09:39,922 - INFO - Driver [C:\Users\Prashant\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-12-09 01:09:39,926 - ERROR - Error setting up browser: [WinError 193] %1 is not a valid Win32 application
+2024-12-09 01:09:39,927 - ERROR - Error processing 5555555555: [WinError 193] %1 is not a valid Win32 application
+2024-12-09 01:09:41,524 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 01:10:02,324 - INFO - Browser setup completed successfully
+2024-12-09 01:10:40,090 - ERROR - Error finding element button[type="submit"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF631CC6CF5+28821]
+	(No symbol) [0x00007FF631C33880]
+	(No symbol) [0x00007FF631AD578A]
+	(No symbol) [0x00007FF631B291BE]
+	(No symbol) [0x00007FF631B294AC]
+	(No symbol) [0x00007FF631B72647]
+	(No symbol) [0x00007FF631B4F33F]
+	(No symbol) [0x00007FF631B6F412]
+	(No symbol) [0x00007FF631B4F0A3]
+	(No symbol) [0x00007FF631B1A778]
+	(No symbol) [0x00007FF631B1B8E1]
+	GetHandleVerifier [0x00007FF631FFFCED+3408013]
+	GetHandleVerifier [0x00007FF63201745F+3504127]
+	GetHandleVerifier [0x00007FF63200B63D+3455453]
+	GetHandleVerifier [0x00007FF631D8BDFB+835995]
+	(No symbol) [0x00007FF631C3EB9F]
+	(No symbol) [0x00007FF631C3A854]
+	(No symbol) [0x00007FF631C3A9ED]
+	(No symbol) [0x00007FF631C2A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:10:40,092 - ERROR - Failed to process number: 1234567890
+2024-12-09 01:11:08,553 - ERROR - Error finding element button[type="submit"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF631CC6CF5+28821]
+	(No symbol) [0x00007FF631C33880]
+	(No symbol) [0x00007FF631AD578A]
+	(No symbol) [0x00007FF631B291BE]
+	(No symbol) [0x00007FF631B294AC]
+	(No symbol) [0x00007FF631B72647]
+	(No symbol) [0x00007FF631B4F33F]
+	(No symbol) [0x00007FF631B6F412]
+	(No symbol) [0x00007FF631B4F0A3]
+	(No symbol) [0x00007FF631B1A778]
+	(No symbol) [0x00007FF631B1B8E1]
+	GetHandleVerifier [0x00007FF631FFFCED+3408013]
+	GetHandleVerifier [0x00007FF63201745F+3504127]
+	GetHandleVerifier [0x00007FF63200B63D+3455453]
+	GetHandleVerifier [0x00007FF631D8BDFB+835995]
+	(No symbol) [0x00007FF631C3EB9F]
+	(No symbol) [0x00007FF631C3A854]
+	(No symbol) [0x00007FF631C3A9ED]
+	(No symbol) [0x00007FF631C2A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:11:08,558 - ERROR - Failed to process number: 9876543210
+2024-12-09 01:11:37,130 - ERROR - Error finding element button[type="submit"]: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF631CC6CF5+28821]
+	(No symbol) [0x00007FF631C33880]
+	(No symbol) [0x00007FF631AD578A]
+	(No symbol) [0x00007FF631B291BE]
+	(No symbol) [0x00007FF631B294AC]
+	(No symbol) [0x00007FF631B72647]
+	(No symbol) [0x00007FF631B4F33F]
+	(No symbol) [0x00007FF631B6F412]
+	(No symbol) [0x00007FF631B4F0A3]
+	(No symbol) [0x00007FF631B1A778]
+	(No symbol) [0x00007FF631B1B8E1]
+	GetHandleVerifier [0x00007FF631FFFCED+3408013]
+	GetHandleVerifier [0x00007FF63201745F+3504127]
+	GetHandleVerifier [0x00007FF63200B63D+3455453]
+	GetHandleVerifier [0x00007FF631D8BDFB+835995]
+	(No symbol) [0x00007FF631C3EB9F]
+	(No symbol) [0x00007FF631C3A854]
+	(No symbol) [0x00007FF631C3A9ED]
+	(No symbol) [0x00007FF631C2A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:11:37,133 - ERROR - Failed to process number: 5555555555
+2024-12-09 01:11:38,511 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 01:19:27,729 - INFO - Browser setup completed successfully
+2024-12-09 01:20:00,836 - ERROR - Error waiting for element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6993F6CF5+28821]
+	(No symbol) [0x00007FF699363880]
+	(No symbol) [0x00007FF69920578A]
+	(No symbol) [0x00007FF6992591BE]
+	(No symbol) [0x00007FF6992594AC]
+	(No symbol) [0x00007FF6992A2647]
+	(No symbol) [0x00007FF69927F33F]
+	(No symbol) [0x00007FF69929F412]
+	(No symbol) [0x00007FF69927F0A3]
+	(No symbol) [0x00007FF69924A778]
+	(No symbol) [0x00007FF69924B8E1]
+	GetHandleVerifier [0x00007FF69972FCED+3408013]
+	GetHandleVerifier [0x00007FF69974745F+3504127]
+	GetHandleVerifier [0x00007FF69973B63D+3455453]
+	GetHandleVerifier [0x00007FF6994BBDFB+835995]
+	(No symbol) [0x00007FF69936EB9F]
+	(No symbol) [0x00007FF69936A854]
+	(No symbol) [0x00007FF69936A9ED]
+	(No symbol) [0x00007FF69935A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:20:00,840 - ERROR - Failed to process number: 1234567890
+2024-12-09 01:20:25,615 - ERROR - Error waiting for element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6993F6CF5+28821]
+	(No symbol) [0x00007FF699363880]
+	(No symbol) [0x00007FF69920578A]
+	(No symbol) [0x00007FF6992591BE]
+	(No symbol) [0x00007FF6992594AC]
+	(No symbol) [0x00007FF6992A2647]
+	(No symbol) [0x00007FF69927F33F]
+	(No symbol) [0x00007FF69929F412]
+	(No symbol) [0x00007FF69927F0A3]
+	(No symbol) [0x00007FF69924A778]
+	(No symbol) [0x00007FF69924B8E1]
+	GetHandleVerifier [0x00007FF69972FCED+3408013]
+	GetHandleVerifier [0x00007FF69974745F+3504127]
+	GetHandleVerifier [0x00007FF69973B63D+3455453]
+	GetHandleVerifier [0x00007FF6994BBDFB+835995]
+	(No symbol) [0x00007FF69936EB9F]
+	(No symbol) [0x00007FF69936A854]
+	(No symbol) [0x00007FF69936A9ED]
+	(No symbol) [0x00007FF69935A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:20:25,622 - ERROR - Failed to process number: 9876543210
+2024-12-09 01:20:49,897 - ERROR - Error waiting for element firstName: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6993F6CF5+28821]
+	(No symbol) [0x00007FF699363880]
+	(No symbol) [0x00007FF69920578A]
+	(No symbol) [0x00007FF6992591BE]
+	(No symbol) [0x00007FF6992594AC]
+	(No symbol) [0x00007FF6992A2647]
+	(No symbol) [0x00007FF69927F33F]
+	(No symbol) [0x00007FF69929F412]
+	(No symbol) [0x00007FF69927F0A3]
+	(No symbol) [0x00007FF69924A778]
+	(No symbol) [0x00007FF69924B8E1]
+	GetHandleVerifier [0x00007FF69972FCED+3408013]
+	GetHandleVerifier [0x00007FF69974745F+3504127]
+	GetHandleVerifier [0x00007FF69973B63D+3455453]
+	GetHandleVerifier [0x00007FF6994BBDFB+835995]
+	(No symbol) [0x00007FF69936EB9F]
+	(No symbol) [0x00007FF69936A854]
+	(No symbol) [0x00007FF69936A9ED]
+	(No symbol) [0x00007FF69935A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:20:49,900 - ERROR - Failed to process number: 5555555555
+2024-12-09 01:20:51,533 - INFO - Processed 0 successfully, 3 failed
+2024-12-09 01:23:20,927 - INFO - Browser setup completed successfully
+2024-12-09 01:27:28,566 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36786B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/frame
+2024-12-09 01:27:33,183 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36787510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/frame
+2024-12-09 01:27:38,185 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36787ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/frame
+2024-12-09 01:27:42,456 - ERROR - Error waiting for element codrp: HTTPConnectionPool(host='localhost', port=64593): Max retries exceeded with url: /session/03d7971e5d0910c31135548ab83fe86e/frame (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C367A08D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-12-09 01:27:42,458 - ERROR - Failed to select country code
+2024-12-09 01:27:42,459 - ERROR - Failed to process number: 1234567890
+2024-12-09 01:27:47,946 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C367A1390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/execute/sync
+2024-12-09 01:27:52,010 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C367A1E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/execute/sync
+2024-12-09 01:27:56,093 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C367A28D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/execute/sync
+2024-12-09 01:28:00,182 - ERROR - Error filling form: HTTPConnectionPool(host='localhost', port=64593): Max retries exceeded with url: /session/03d7971e5d0910c31135548ab83fe86e/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C3677F650>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-12-09 01:28:00,185 - ERROR - Failed to process number: 9876543210
+2024-12-09 01:28:05,471 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36787E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/execute/sync
+2024-12-09 01:28:09,548 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36786E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/execute/sync
+2024-12-09 01:28:13,636 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36785590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/03d7971e5d0910c31135548ab83fe86e/execute/sync
+2024-12-09 01:28:17,694 - ERROR - Error filling form: HTTPConnectionPool(host='localhost', port=64593): Max retries exceeded with url: /session/03d7971e5d0910c31135548ab83fe86e/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014C36786310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-12-09 01:28:17,695 - ERROR - Failed to process number: 5555555555
+2024-12-09 01:28:19,613 - ERROR - Error in main process: [Errno 13] Permission denied: 'form_results.xlsx'
+2024-12-09 01:31:15,760 - INFO - Processing number: 1234567890
+2024-12-09 01:32:58,309 - ERROR - Failed to fill Last Name
+2024-12-09 01:32:58,310 - ERROR - Failed to process number: 1234567890
+2024-12-09 01:33:01,229 - INFO - Processing number: 9876543210
+2024-12-09 01:33:01,236 - ERROR - Error filling form: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E5BB6CF5+28821]
+	(No symbol) [0x00007FF6E5B23880]
+	(No symbol) [0x00007FF6E59C578A]
+	(No symbol) [0x00007FF6E59B230C]
+	(No symbol) [0x00007FF6E59B21D0]
+	(No symbol) [0x00007FF6E59C8131]
+	(No symbol) [0x00007FF6E5A5ED12]
+	(No symbol) [0x00007FF6E5A3F0A3]
+	(No symbol) [0x00007FF6E5A0A778]
+	(No symbol) [0x00007FF6E5A0B8E1]
+	GetHandleVerifier [0x00007FF6E5EEFCED+3408013]
+	GetHandleVerifier [0x00007FF6E5F0745F+3504127]
+	GetHandleVerifier [0x00007FF6E5EFB63D+3455453]
+	GetHandleVerifier [0x00007FF6E5C7BDFB+835995]
+	(No symbol) [0x00007FF6E5B2EB9F]
+	(No symbol) [0x00007FF6E5B2A854]
+	(No symbol) [0x00007FF6E5B2A9ED]
+	(No symbol) [0x00007FF6E5B1A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:33:01,240 - ERROR - Failed to process number: 9876543210
+2024-12-09 01:33:04,216 - INFO - Processing number: 5555555555
+2024-12-09 01:33:04,236 - ERROR - Error filling form: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E5BB6CF5+28821]
+	(No symbol) [0x00007FF6E5B23880]
+	(No symbol) [0x00007FF6E59C578A]
+	(No symbol) [0x00007FF6E59B230C]
+	(No symbol) [0x00007FF6E59B21D0]
+	(No symbol) [0x00007FF6E59C8131]
+	(No symbol) [0x00007FF6E5A5ED12]
+	(No symbol) [0x00007FF6E5A3F0A3]
+	(No symbol) [0x00007FF6E5A0A778]
+	(No symbol) [0x00007FF6E5A0B8E1]
+	GetHandleVerifier [0x00007FF6E5EEFCED+3408013]
+	GetHandleVerifier [0x00007FF6E5F0745F+3504127]
+	GetHandleVerifier [0x00007FF6E5EFB63D+3455453]
+	GetHandleVerifier [0x00007FF6E5C7BDFB+835995]
+	(No symbol) [0x00007FF6E5B2EB9F]
+	(No symbol) [0x00007FF6E5B2A854]
+	(No symbol) [0x00007FF6E5B2A9ED]
+	(No symbol) [0x00007FF6E5B1A1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 01:33:04,239 - ERROR - Failed to process number: 5555555555
+2024-12-09 12:35:26,241 - ERROR - Error in main process: [Errno 13] Permission denied: 'form_results.xlsx'
+2024-12-09 12:37:44,508 - INFO - Processing number: 1234567890
+2024-12-09 12:37:47,629 - INFO - Selecting country code...
+2024-12-09 12:37:52,606 - INFO - Filling field First Name with value John
+2024-12-09 12:38:59,659 - INFO - Filling field Last Name with value Doe
+2024-12-09 12:40:05,640 - INFO - Filling field Mobile Number with value 1234567890
+2024-12-09 12:41:13,734 - INFO - Filling field Email with value john.doe1234567890@gmail.com
+2024-12-09 12:42:05,775 - INFO - Clicking next button...
+2024-12-09 12:43:30,833 - WARNING - Click attempt 1 failed, retrying...
+2024-12-09 12:44:41,374 - WARNING - Click attempt 2 failed, retrying...
+2024-12-09 12:44:43,378 - WARNING - Click attempt 3 failed, retrying...
+2024-12-09 12:44:45,379 - ERROR - Failed to click next button after all retries
+2024-12-09 12:44:45,379 - ERROR - Failed to process number: 1234567890
+2024-12-09 12:44:47,572 - INFO - Processing number: 9876543210
+2024-12-09 12:44:47,574 - ERROR - Error in form filling process: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D2F66CF5+28821]
+	(No symbol) [0x00007FF6D2ED3880]
+	(No symbol) [0x00007FF6D2D7578A]
+	(No symbol) [0x00007FF6D2D4F4F5]
+	(No symbol) [0x00007FF6D2DF6247]
+	(No symbol) [0x00007FF6D2E0ECE2]
+	(No symbol) [0x00007FF6D2DEF0A3]
+	(No symbol) [0x00007FF6D2DBA778]
+	(No symbol) [0x00007FF6D2DBB8E1]
+	GetHandleVerifier [0x00007FF6D329FCED+3408013]
+	GetHandleVerifier [0x00007FF6D32B745F+3504127]
+	GetHandleVerifier [0x00007FF6D32AB63D+3455453]
+	GetHandleVerifier [0x00007FF6D302BDFB+835995]
+	(No symbol) [0x00007FF6D2EDEB9F]
+	(No symbol) [0x00007FF6D2EDA854]
+	(No symbol) [0x00007FF6D2EDA9ED]
+	(No symbol) [0x00007FF6D2ECA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 12:44:47,577 - ERROR - Failed to process number: 9876543210
+2024-12-09 12:44:50,260 - INFO - Processing number: 5555555555
+2024-12-09 12:44:50,262 - ERROR - Error in form filling process: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D2F66CF5+28821]
+	(No symbol) [0x00007FF6D2ED3880]
+	(No symbol) [0x00007FF6D2D7578A]
+	(No symbol) [0x00007FF6D2D4F4F5]
+	(No symbol) [0x00007FF6D2DF6247]
+	(No symbol) [0x00007FF6D2E0ECE2]
+	(No symbol) [0x00007FF6D2DEF0A3]
+	(No symbol) [0x00007FF6D2DBA778]
+	(No symbol) [0x00007FF6D2DBB8E1]
+	GetHandleVerifier [0x00007FF6D329FCED+3408013]
+	GetHandleVerifier [0x00007FF6D32B745F+3504127]
+	GetHandleVerifier [0x00007FF6D32AB63D+3455453]
+	GetHandleVerifier [0x00007FF6D302BDFB+835995]
+	(No symbol) [0x00007FF6D2EDEB9F]
+	(No symbol) [0x00007FF6D2EDA854]
+	(No symbol) [0x00007FF6D2EDA9ED]
+	(No symbol) [0x00007FF6D2ECA1D9]
+	BaseThreadInitThunk [0x00007FF8BEE9259D+29]
+	RtlUserThreadStart [0x00007FF8C0A2AF38+40]
+
+2024-12-09 12:44:50,265 - ERROR - Failed to process number: 5555555555
+2024-12-09 12:44:52,383 - ERROR - Error in main process: [Errno 13] Permission denied: 'form_results.xlsx'
